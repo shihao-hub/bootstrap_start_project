@@ -1,3 +1,3 @@
-git add .
-git commit -m "init"
-git push origin master:main
+git add . | bash.exe
+git commit -m "init" | bash.exe
+git push origin master:main | bash.exe
